@@ -17,3 +17,4 @@ Cookie generator for Akamai abck cookies 1.75
 ![image](https://github.com/cc20141102/Akamai/blob/main/4.png)  
 
 
+vx:Chch0hchC
